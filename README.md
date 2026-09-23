@@ -76,12 +76,13 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 > **Note:** After tuning the Gunn source, follow the same procedure for VSWR and impedance measurement as for the depth of modulation of the PIN modulator.
 
 ## Observation
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e79f59a-e50c-476a-841f-9fa2311ab429" />
+<img width="950" height="1600" alt="image" src="https://github.com/user-attachments/assets/a63b598c-a45e-46c9-858f-fe8b49497ff8" />
+
 
 
 ## Calculation
 
- <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4753458a-b1b1-4c05-9a6f-f6407b56027a" />
+<img width="1117" height="1573" alt="image" src="https://github.com/user-attachments/assets/6fab4770-e08d-4e9d-981d-00e6e507f2a4" />
 
 
 ## Precautions
